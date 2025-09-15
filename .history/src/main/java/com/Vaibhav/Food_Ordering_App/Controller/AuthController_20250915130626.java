@@ -1,0 +1,9 @@
+package com.Vaibhav.Food_Ordering_App.Controller;
+import org.springframework.web.bind.annotation.*;
+
+@RestController
+@RequestMapping("/api/auth")
+public class AuthController {
+    
+    private final UserSerice userServi
+}
